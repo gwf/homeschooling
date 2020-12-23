@@ -3,5 +3,14 @@
     {
       "path": "/Users/gary/git/homeschooling"
     }
-  ]
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/\\#*": true,
+      "**/.#*": true,
+      "**/~$*": true,
+      "**/.DS_Store": true,
+      "**/.git/": true
+    }
+  }
 }
